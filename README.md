@@ -58,6 +58,7 @@ Run all cells in the notebook to reproduce the analysis and model training.
 - **Metrics Evaluated:**
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
+  - Root Mean Squared Error (RMSE)
   - R² Score
 
 ### 4. Visualizations
@@ -76,16 +77,11 @@ Run all cells in the notebook to reproduce the analysis and model training.
 
 ---
 
-## 📸 Sample Visualizations
-
-*(You can include screenshots or saved plots here)*
-
----
 
 ## 📌 Author
 
 Created by 'Abdul 'Aziz  
-📧 your.email@example.com
+📧 bintangkapala@gmail.com
 
 ---
 
