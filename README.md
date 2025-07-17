@@ -29,8 +29,9 @@ jupyter notebook salary_analysis.ipynb
 
 ## 🔍 Notebook Summary
 
-- #bivariate analysis
-
+- univariate analysis
+- bivariate analysis
+- multivariate analysis
 
 ## 📸 Visualizations
 
@@ -41,7 +42,7 @@ This notebook includes various charts such as salary distributions, boxplots, an
 
 ## 📌 Author
 
-Created by [Your Name]
+Created by bintangkapala@gmail.com
 
 ## 📄 License
 
